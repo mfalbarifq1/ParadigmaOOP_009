@@ -20,5 +20,5 @@ int main(){
     mhs1.nim = 111;
     mhs1.nama = "joko susilo";
     mhs1.nilai =  75.5;
-  
+    mhs.printData();
 }
